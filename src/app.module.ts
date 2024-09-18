@@ -1,4 +1,4 @@
-import { User } from './entities/User.entity';
+import { User } from './entities/user.entity';
 import { Wallet } from './entities/wallet.entity';
 import { Telegram } from './entities/telegram.entity';
 import { ReportWL } from './entities/reportWL.entity';

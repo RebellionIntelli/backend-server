@@ -8,7 +8,7 @@ import { In, Repository } from 'typeorm';
 import { Report } from 'src/entities/report.entity';
 import { Account } from 'src/entities/account.entity';
 import { Project } from 'src/entities/project.entity';
-import { User } from 'src/entities/User.entity';
+import { User } from 'src/entities/user.entity';
 import { ReportWL } from 'src/entities/reportWL.entity';
 
 @Injectable()

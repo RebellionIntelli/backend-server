@@ -10,7 +10,7 @@ import { Project } from 'src/entities/project.entity';
 import { Wallet } from 'src/entities/wallet.entity';
 import { CreateReportsWLDto } from './dto/create-reports-wl.dto';
 import { UpdateReportWLDto } from './dto/update-reports-wl.dto';
-import { User } from 'src/entities/User.entity';
+import { User } from 'src/entities/user.entity';
 
 @Injectable()
 export class ReportsWLService {

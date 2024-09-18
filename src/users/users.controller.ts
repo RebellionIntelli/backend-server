@@ -12,7 +12,7 @@ import {
 } from '@nestjs/common';
 import { UsersService } from './users.service';
 import { ApiOperation, ApiTags, ApiParam, ApiResponse } from '@nestjs/swagger';
-import { User } from 'src/entities/User.entity';
+import { User } from 'src/entities/user.entity';
 import { CreateUserDto } from './dto/create-user.dto';
 import { FindUserByIdDto } from './dto/findbyid-user.dto';
 

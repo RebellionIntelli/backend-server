@@ -6,7 +6,7 @@ import { ReportWL } from 'src/entities/reportWL.entity';
 import { Account } from 'src/entities/account.entity';
 import { Project } from 'src/entities/project.entity';
 import { Wallet } from 'src/entities/wallet.entity';
-import { User } from 'src/entities/User.entity';
+import { User } from 'src/entities/user.entity';
 
 @Module({
   imports: [
